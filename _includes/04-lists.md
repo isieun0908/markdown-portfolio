@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* 육회
+* 연어
+* 햄버거
+* 회
+* 짬뽕
